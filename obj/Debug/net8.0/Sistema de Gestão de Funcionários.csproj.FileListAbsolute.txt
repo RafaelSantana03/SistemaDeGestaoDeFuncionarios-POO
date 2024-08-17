@@ -1,0 +1,14 @@
+A:\MACORATTI_C#_ESSENCIAL\Programação Orientada a Objetos\Sistema de Gestão de Funcionários\bin\Debug\net8.0\Sistema de Gestão de Funcionários.exe
+A:\MACORATTI_C#_ESSENCIAL\Programação Orientada a Objetos\Sistema de Gestão de Funcionários\bin\Debug\net8.0\Sistema de Gestão de Funcionários.deps.json
+A:\MACORATTI_C#_ESSENCIAL\Programação Orientada a Objetos\Sistema de Gestão de Funcionários\bin\Debug\net8.0\Sistema de Gestão de Funcionários.runtimeconfig.json
+A:\MACORATTI_C#_ESSENCIAL\Programação Orientada a Objetos\Sistema de Gestão de Funcionários\bin\Debug\net8.0\Sistema de Gestão de Funcionários.dll
+A:\MACORATTI_C#_ESSENCIAL\Programação Orientada a Objetos\Sistema de Gestão de Funcionários\bin\Debug\net8.0\Sistema de Gestão de Funcionários.pdb
+A:\MACORATTI_C#_ESSENCIAL\Programação Orientada a Objetos\Sistema de Gestão de Funcionários\obj\Debug\net8.0\Sistema de Gestão de Funcionários.GeneratedMSBuildEditorConfig.editorconfig
+A:\MACORATTI_C#_ESSENCIAL\Programação Orientada a Objetos\Sistema de Gestão de Funcionários\obj\Debug\net8.0\Sistema de Gestão de Funcionários.AssemblyInfoInputs.cache
+A:\MACORATTI_C#_ESSENCIAL\Programação Orientada a Objetos\Sistema de Gestão de Funcionários\obj\Debug\net8.0\Sistema de Gestão de Funcionários.AssemblyInfo.cs
+A:\MACORATTI_C#_ESSENCIAL\Programação Orientada a Objetos\Sistema de Gestão de Funcionários\obj\Debug\net8.0\Sistema de Gestão de Funcionários.csproj.CoreCompileInputs.cache
+A:\MACORATTI_C#_ESSENCIAL\Programação Orientada a Objetos\Sistema de Gestão de Funcionários\obj\Debug\net8.0\Sistema de Gestão de Funcionários.dll
+A:\MACORATTI_C#_ESSENCIAL\Programação Orientada a Objetos\Sistema de Gestão de Funcionários\obj\Debug\net8.0\refint\Sistema de Gestão de Funcionários.dll
+A:\MACORATTI_C#_ESSENCIAL\Programação Orientada a Objetos\Sistema de Gestão de Funcionários\obj\Debug\net8.0\Sistema de Gestão de Funcionários.pdb
+A:\MACORATTI_C#_ESSENCIAL\Programação Orientada a Objetos\Sistema de Gestão de Funcionários\obj\Debug\net8.0\Sistema de Gestão de Funcionários.genruntimeconfig.cache
+A:\MACORATTI_C#_ESSENCIAL\Programação Orientada a Objetos\Sistema de Gestão de Funcionários\obj\Debug\net8.0\ref\Sistema de Gestão de Funcionários.dll
