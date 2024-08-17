@@ -11,7 +11,7 @@ funcionarioHorista.CalculateSalary();
 funcionarios.Add(funcionarioHorista);
 
 // Criando funcionarioComissionado e adicionando a lista
-FuncionarioComissionado funcionarioComissionado = new("Pedro", 2000, 15, 3);
+FuncionarioComissionado funcionarioComissionado = new("Pedro", 2000, 15, 30);
 funcionarioComissionado.CalculateSalary();
 funcionarios.Add(funcionarioComissionado);
 

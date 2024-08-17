@@ -11,7 +11,8 @@ public class FuncionarioComissionado : Funcionario
     // Método que retorna o salário base mais o valor das comissões (vendas realizadas * percentual de comissão).
     public override decimal CalculateSalary()
     {
-        return SalaryBase + (SalesMade * CommissionPercentage);
+        SalaryBase = SalaryBase + (SalesMade * CommissionPercentage);
+        return SalaryBase;
     }
 
     public FuncionarioComissionado(string name, decimal salaryBase, decimal salesMade, decimal commisionPercentage) : base (name, salaryBase)

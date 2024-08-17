@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Sistema de Gestão de Funcionários")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+30c050cf7843226a689a5dafb3518c8cd3e1de0a")]
 [assembly: System.Reflection.AssemblyProductAttribute("Sistema de Gestão de Funcionários")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Sistema de Gestão de Funcionários")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
