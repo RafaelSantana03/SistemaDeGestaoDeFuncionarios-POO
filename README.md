@@ -61,5 +61,4 @@ Você foi contratado para desenvolver um sistema de gestão de funcionários par
 - Demonstrar o uso de herança e polimorfismo.
 - Praticar a sobrescrita de métodos para fornecer implementações específicas em classes derivadas.
 
-
-![Captura de tela 2024-08-16 225115](https://github.com/user-attachments/assets/2d7d21f9-9606-4a07-a14e-67183cfae43f)
+![Captura de tela 2024-08-16 225538](https://github.com/user-attachments/assets/fb6b069e-a48f-4c30-a9e5-c6a6357a5515)
